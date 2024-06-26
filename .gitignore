@@ -1,5 +1,5 @@
-simple_project/.env
-simple_project/config.py
+simple_project/db/.env
+simple_project/db/config.py
 tests
 .idea
 simple_project/db/__pycache__
