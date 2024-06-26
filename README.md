@@ -1,6 +1,6 @@
-## Идея проекта:
-### идея создать сайт на ктором пользователь может либо ввести число,
-### либо получить число из базы данных. 
-### Если пользователь ввел число, которого нет в базе данных,
-### ему выводится соответствуещее сообщение, если число уже есть в базе данных,
-### пользователю выводится другое сообщение и числоо не записывается
+## Project idea:
+### the idea is to create a website on which the user can either enter a number,
+###or get a number from the database.
+### If the user entered a number that is not in the database,
+### a corresponding message is displayed to him if the number is already in the database,
+### A different message is displayed to the user and the number is not recorded
