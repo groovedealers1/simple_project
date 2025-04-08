@@ -1,6 +1,4 @@
 import random
-# from psycopg.errors import InvalidTextRepresentation
-# from sqlalchemy.ext import
 from sqlalchemy import select
 from .database import Base
 from .database import sync_engine, sync_session
